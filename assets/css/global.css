@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-cassadio: cassadio;
+  --font-gilroy-medium: Gilroy-Medium;
+  --font-gilroy-bold: Gilroy-Bold;
+  --font-gilroy-regular: Gilroy-Regular;
+
+  /* font sizes */
+  --font-size-sm: 14px;
+  --font-size-mini: 15px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-gray-100: #fffdfd;
+  --color-dimgray-100: #707070;
+  --color-dimgray-200: #4f4f4f;
+  --color-lightgray-100: #ccc;
+  --color-lightgray-200: #cacaca;
+
+  /* Border radiuses */
+  --br-11xs: 2px;
+  --br-mini: 15px;
+
+  /* Effects */
+  --box-shadow: 2px 4px 6px rgba(79, 79, 79, 0.15);
+}
